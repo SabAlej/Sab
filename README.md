@@ -55,10 +55,5 @@
 
 
 
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabAlej&theme=transparent&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars&rank_icon=github)
-
-
-
-
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabAlej&theme=transparent&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars&rank_icon=github&title_color=8A2BE2&icon_color=8A2BE2&border_color=8A2BE2)
 
