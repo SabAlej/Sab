@@ -1,7 +1,7 @@
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=SabAlej&label=Profile%20views&color=blueviolet&style=plastic&base=2000" alt="views" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=SabAlej&label=Visits%20&color=blueviolet&style=plastic&base=2000" alt="views"height="18" width="100"/> </p>
 <h1 align="center">Hi there!  </h1> 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <h4 align="left"><em>
@@ -13,7 +13,7 @@
     <img src="https://i.pinimg.com/originals/b2/09/d7/b209d7c26d18423c4688ed01cdbedfa7.png" alt="discord" width="16"/> sab1102 </a>  or open an issue here on my GitHub.
 </em>
 </h4>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br><br><br>
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -52,8 +52,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 </p>
 <br><br><br>
-
-
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabAlej&theme=transparent&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars&rank_icon=github&title_color=8A2BE2&icon_color=8A2BE2&border_color=8A2BE2)
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SabAlej&show_icons=true&count_private=true&locale=en&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&hide=stars&rank_icon=github&title_color=8A2BE2&icon_color=8A2BE2&border_color=8A2BE2" height="220px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SabAlej&layout=compact&langs_count=6&locale=en&theme=transparent&title_color=8A2BE2&icon_color=8A2BE2&border_color=8A2BE2" alt="SabAlej" width="220px"/>
+<br/>
+  </p>
 
