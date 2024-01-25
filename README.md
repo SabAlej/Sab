@@ -1,12 +1,20 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=SabAlej&label=Profile%20views&color=blueviolet&style=plastic&base=2000" alt="views" /> </p>
-<h1 align="center">Hello there!  </h1> 
+<h1 align="center">Hi there!  </h1> 
 
 
-<br><br>
-<h3 align="left">I'm always passionate about exploring new technologies and seeking opportunities to expand my skillset. Interested in contributing to Open Source projects. Let me know if I can help, I'd love to!</h3>
 
-<br><br>
+<h4 align="left"><em>
+    I'm Sab, a passionate developer and lifelong learner, always eager to explore new languages, libraries and frameworks to conquer challenging problems.
+    I thrive in the collaborative spirit of Open Source and am excited to deep dive in areas like security, testing and automation. 
+    Whether it's vulnerability assessments, automated test suites, or bugs, let me know how I can support your project in these or other ways. 
+    I'm also passionate about collaborative spirit, sharing knowledge, experience and cats! 
+    So if any of this rings a bell, I'd love to hear from you! Get in touch at <a href="https://discord.gg/pwAHX3dHgx" target="_blank" rel="noreferrer"> 
+    <img src="https://i.pinimg.com/originals/b2/09/d7/b209d7c26d18423c4688ed01cdbedfa7.png" alt="discord" width="16"/> sab1102 </a>  or open an issue here on my GitHub.
+</em>
+</h4>
+
+<br><br><br>
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
@@ -43,7 +51,7 @@
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 </p>
-<br><br>
+<br><br><br>
 
 
 
