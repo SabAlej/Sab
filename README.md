@@ -54,7 +54,6 @@
 		<kbd>Packages</kbd>
 		<br>
 		<br>
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
 	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
 	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/devicon/icons/eslint/eslint-original.svg" />
 	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
