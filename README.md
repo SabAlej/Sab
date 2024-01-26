@@ -55,7 +55,7 @@
 		<br>
 		<br>
 	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/devicon/icons/eslint/eslint-original.svg" />
+	<img width="30px" src="https://github.com/eslint.png" />
 	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 	</kbd>
@@ -65,8 +65,6 @@
 		<br>
 	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 	</kbd>
 	<kbd>
 		<kbd>Data Bases</kbd>
@@ -96,7 +94,10 @@
 	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
 	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" />
 	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />	
+	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+	<img width="30px" src="https://github.com/vitejs.png" />
+	<img width="30px" src="https://github.com/vercel.png" />
+	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 	</kbd>
 	<kbd>
 		<kbd>OS</kbd>
@@ -113,7 +114,7 @@
 <br><br><br>
 <p align="center">
 <img alt="SabAlej" src="https://github-readme-stats.vercel.app/api?username=SabAlej&show_icons=true&count_private=true&locale=en&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&hide=stars&rank_icon=github&title_color=8A2BE2&icon_color=8A2BE2&border_color=8A2BE2" height="220px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SabAlej&layout=compact&langs_count=6&locale=en&theme=transparent&title_color=8A2BE2&icon_color=8A2BE2&border_color=8A2BE2" alt="SabAlej" width="220px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SabAlej&layout=compact&langs_count=6&locale=en&theme=transparent&hide_progress=true&title_color=8A2BE2&icon_color=8A2BE2&border_color=8A2BE2" alt="SabAlej" width="220px"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
