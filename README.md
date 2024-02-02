@@ -11,7 +11,7 @@
 	Whether it's vulnerability assessments, automated test suites, or bugs, let me know how I can support your project in these or other ways. 
 	I'm also passionate about collaborative spirit, sharing knowledge, experience and cats! 
 	So if any of this rings a bell, I'd love to hear from you! Get in touch at <a href="https://discord.gg/pwAHX3dHgx" target="_blank" rel="noreferrer"> 
-	<img src="https://i.pinimg.com/originals/b2/09/d7/b209d7c26d18423c4688ed01cdbedfa7.png" alt="discord" width="16"/> sab1102 </a>  or open an issue here on my GitHub.
+	<img src="https://i.pinimg.com/originals/b2/09/d7/b209d7c26d18423c4688ed01cdbedfa7.png" alt="discord" width="16"/> sab1102 </a>  or open an <a href="https://github.com/SabAlej/SabAlej/issues" target="_blank" rel="noreferrer">issue</a> here on my GitHub.
 </em>
 </h4>
 
