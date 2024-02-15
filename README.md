@@ -21,7 +21,7 @@
 
 <p align="center" >
 	<kbd>
-		<kbd>Lenguages</kbd>
+		<kbd>Languages</kbd>
 		<br>
 		<br>
 	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
